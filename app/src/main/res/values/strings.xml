@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Asclepius</string>
+    <string name="gallery">Galeri</string>
+    <string name="analyze">Analyze</string>
+    <string name="result">Hasil Analisis</string>
+    <string name="image_classifier_failed">Image classifier failed to initialize. See error logs for details</string>
+    <string name="empty_image_warning">Silakan masukkan berkas gambar terlebih dahulu.</string>
+    <string name="result_text">%1$s %2$s</string>
+    <string name="title_home">Home</string>
+    <string name="title_news">News</string>
+    <string name="title_history">History</string>
+    <string name="result_text_button">Save Result</string>
+    <string name="img_desc_item_history">for showing cancer image</string>
+    <string name="item_result_history">Result: %1$s</string>
+    <string name="item_score_history">Confidence Score: %1$s</string>
+    <string name="delete_text_button">Delete</string>
+    <string name="history_empty_placeholder">History is empty</string>
+    <string name="news_empty_tv">News no available</string>
+    <string name="news_title">Title</string>
+    <string name="news_desc">Description</string>
+    <string name="result_img_desc">used to display selected cancer image</string>
+    <string name="preview_img">used as preview image on home fragment</string>
+    <string name="news_img_desc">used for displaying news image</string>
+</resources>

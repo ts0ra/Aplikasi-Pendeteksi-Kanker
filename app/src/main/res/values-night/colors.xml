@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FFF</color>
+    <color name="white">#000</color>
+
+    <color name="ucrop_color_black">#000</color>
+    <color name="ucrop_color_white">#FFF</color>
+
+    <!--uCrop Activity-->
+    <color name="ucrop_color_widget_text">@color/ucrop_color_blaze_orange</color>
+    <color name="ucrop_color_statusbar">#D0BCFF</color>
+    <color name="ucrop_color_toolbar">#1D1B20</color>
+    <color name="ucrop_color_toolbar_widget">#FFFFFF</color>
+    <color name="ucrop_color_crop_background">#141218</color>
+    <color name="ucrop_color_widget_background">#1D1B20</color>
+    <color name="ucrop_color_widget_active">#FFF</color>
+    <color name="ucrop_color_active_controls_color">#9063D4</color>
+    <color name="ucrop_color_inactive_controls_color">#FFF</color>
+    <color name="ucrop_color_progress_wheel_line">#000</color>
+
+    <!--Crop View-->
+    <color name="ucrop_color_default_crop_grid">#80ffffff</color>
+    <color name="ucrop_color_default_crop_frame">#ffffff</color>
+    <color name="ucrop_color_default_dimmed">#8c000000</color>
+    <color name="ucrop_color_default_logo">#616061</color>
+</resources>
